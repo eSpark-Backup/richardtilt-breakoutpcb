@@ -18,7 +18,7 @@ The task requires observing the foorprints of various development kits that clie
  ![image](https://github.com/eSpark-Consultants/richardtilt-breakoutpcb/assets/76909080/7a2aab3a-a398-49d2-8b68-70ed474abf50)
 
 ### Desscription
-The Source voltage comes from the PDB, a regulated 5V amount. The PDB will only connect to the PCB from a double row of six pins, see product description. The pins from the PDB are for the PWM signal (S2, S4 only), common ground, Vx (5V), Current Sensor. The PDB will connect to the PCB with only these pins, there is no high voltage / high current from the PDB to the PCB.
+The Source voltage comes from the PDB, a regulated 5V amount. The PDB will only connect to the PCB from a double row of six pins, see product description. The pins from the PDB are for the PWM signal (S1, S3 only), common ground, Vx (5V), Current Sensor. The PDB will connect to the PCB with only these pins, there is no high voltage / high current from the PDB to the PCB.
 
 The Current pin from the PDB is used to monitor a current shunt. It is connected to A2 on the ADC. The Ground from the PDB is the main ground and is connected to all components, the 16 Bit ADC has several connections to this ground.
 
@@ -26,7 +26,7 @@ The Vx pin from the PDB is the main power supply for all components.
 
 There is a VBat pin on the PDB - BUT - we will no be using that because it is 24V - instead, there is a 1/21 voltage divider on the surface of the PDB. A small 28 gauge wire for example, will be soldered from there to PCB.
 
-There are 6 signal wires used to control PWM, use S2 and S4 only, which are pins on the PDB.
+There are 6 signal wires used to control PWM, use S1 and S3 only, which are pins on the PDB.
 
 Between the Buck converter and the ESP32 is a simple switch. This switch allows to disconnect from the main circuit and use a USB-C
 Cable to program / flash the ESP32 after installing on the PCB. Very Important!
