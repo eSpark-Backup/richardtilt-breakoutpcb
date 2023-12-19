@@ -53,3 +53,7 @@ Please note that left side contains actual module and pin info whereas right sid
  
 ### Reference images of components
 ![image](https://github.com/eSpark-Consultants/richardtilt-breakoutpcb/assets/76909080/eb340105-1888-4148-9247-f505f1579b3f)
+
+### Old Board Reference Image
+![image](https://github.com/eSpark-Consultants/richardtilt-breakoutpcb/assets/76909080/1da981f4-b0fc-457f-b45f-5fc13cf53a47)
+
