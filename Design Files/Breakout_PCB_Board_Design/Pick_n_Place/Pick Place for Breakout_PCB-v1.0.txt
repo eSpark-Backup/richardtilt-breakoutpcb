@@ -1,23 +1,23 @@
 Altium Designer Pick and Place Locations
-C:\Users\LiberDB\Documents\GitHub\richardtilt-breakoutpcb\Design Files\Breakout_PCB_Board_Design\Project Outputs for Breakout_Board_Design-v1.0\Pick Place for Breakout_PCB-v1.0.txt
+D:\Github\richardtilt-breakoutpcb\Design Files\Breakout_PCB_Board_Design\Project Outputs for Breakout_Board_Design-v1.0\Pick Place for Breakout_PCB-v1.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       20/12/23
-Time:       22:32
-Revision:   Not in VersionControl
+Date:       21/12/23
+Time:       18:07
+Revision:   14e37e324457f25ce22a969ec22821b795679848
 Variant:    No variations
 Units used: mm
 
 Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm)  Pad-X(mm) Pad-Y(mm)  
-J2         TopLayer 3,5348mm     114,4778mm   270      3,5348mm  114,4778mm 3,5348mm  118,2878mm 
-J1         TopLayer 54,1430mm    124,6068mm   0        54,1430mm 124,6068mm 35,0930mm 124,6068mm 
-J3         TopLayer 54,1430mm    104,2868mm   0        54,1430mm 104,2868mm 35,0930mm 104,2868mm 
-SW2        TopLayer 21,0639mm    89,2386mm    270      21,0639mm 89,2386mm  21,0639mm 91,7386mm  
-SW1        TopLayer 21,0639mm    114,4468mm   270      21,0639mm 114,4468mm 21,0639mm 116,9468mm 
-J8         TopLayer 42,3164mm    73,5602mm    0        42,3164mm 73,5602mm  30,8864mm 73,5602mm  
-J7         TopLayer 48,4886mm    51,5112mm    0        48,4886mm 51,5112mm  42,1386mm 50,2412mm  
-J6         TopLayer 54,1430mm    79,0006mm    0        54,1430mm 79,0006mm  35,0930mm 79,0006mm  
-J5         TopLayer 3,5348mm     89,1624mm    270      3,5348mm  89,1624mm  3,5348mm  92,9724mm  
-J4         TopLayer 54,1430mm    99,3206mm    0        54,1430mm 99,3206mm  35,0930mm 99,3206mm  
+J1         TopLayer 54.1430mm    124.6068mm   0        54.1430mm 124.6068mm 35.0930mm 124.6068mm 
+J2         TopLayer 3.5348mm     114.4778mm   270      3.5348mm  114.4778mm 3.5348mm  118.2878mm 
+J3         TopLayer 54.1430mm    104.2868mm   0        54.1430mm 104.2868mm 35.0930mm 104.2868mm 
+J4         TopLayer 54.1430mm    99.3206mm    0        54.1430mm 99.3206mm  35.0930mm 99.3206mm  
+J5         TopLayer 3.5348mm     89.1624mm    270      3.5348mm  89.1624mm  3.5348mm  92.9724mm  
+J6         TopLayer 54.1430mm    79.0006mm    0        54.1430mm 79.0006mm  35.0930mm 79.0006mm  
+J7         TopLayer 48.4886mm    51.5112mm    0        48.4886mm 51.5112mm  42.1386mm 50.2412mm  
+J8         TopLayer 42.3164mm    73.5602mm    0        42.3164mm 73.5602mm  30.8864mm 73.5602mm  
+SW1        TopLayer 21.0639mm    114.4468mm   270      21.0639mm 114.4468mm 21.0639mm 116.9468mm 
+SW2        TopLayer 21.0639mm    89.2386mm    270      21.0639mm 89.2386mm  21.0639mm 91.7386mm  
