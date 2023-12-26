@@ -33,7 +33,7 @@ Cable to program / flash the ESP32 after installing on the PCB. Very Important!
 
 There is a w.FL connector on each ESP32 (external antenna). Be careful, there is also another version with an on-board antenna, some of the product links for the w.FL version point to the version with the on board antenna. I will be using an external antenna so we need an M3 hole through the PCB. The antenna lead will PASS THROUGH the PCB. You can put the pass through hole of the PCB directly under the standoff hole on the lower left corner of the ESP32. The w.FL connector WILL fit through the standoff (M3?) hole of the ESP32 breakout board.
 
-The 16 bit ADC is used to read the current sensor and the voltage divider from the PDB. The ADC connects to only one ESP32 using I2C.
+The 16 bit ADC is used to read the current sensor and the voltage divider from the PDB. The ADC connects to only one ESP32 using I2C. The ADC should be powered using the 3.3V before the switch that powers up the ESP32 with which ESP32 is powered up
 
 Watch out for the TR / RX connection that exists between the 2 ESP32 boards. This is basically a UART connection so the 2 boards can communicate.
 
@@ -47,7 +47,8 @@ Sparkfun BabyBuck converters](https://www.sparkfun.com/products/18357)
 [MakeSys PDB Hex](http://www.mateksys.com/?portfolio=pdb-hex)
 
 ### Draft for schematic design
-![image](https://github.com/eSpark-Consultants/richardtilt-breakoutpcb/assets/76909080/25d69f7a-7a21-4e6f-92d9-59c1cce5c526)
+![image](https://github.com/eSpark-Consultants/richardtilt-breakoutpcb/assets/76909080/764a8e2f-cf61-4c2a-b3e4-0ec5182a9e30)
+
 
 Please note that left side contains actual module and pin info whereas right side is a legend!
  
