@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Breakout_PCB-v1.0.GBR   12/26/2023  5:57:58 PM
+Gerber File Extension Report For: Breakout_PCB-v1.0.GBR   12/26/2023  10:29:07 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -20,5 +20,4 @@ Layer Extension     Layer Description
 .GPB                Bottom Pad Master                       
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
-.GM                 Profile                                 
 ------------------------------------------------------------------------------------------
