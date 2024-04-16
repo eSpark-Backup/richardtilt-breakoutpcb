@@ -47,7 +47,8 @@ Sparkfun BabyBuck converters](https://www.sparkfun.com/products/18357)
 [MakeSys PDB Hex](http://www.mateksys.com/?portfolio=pdb-hex)
 
 ### Draft for schematic design
-![image](https://github.com/eSpark-Consultants/richardtilt-breakoutpcb/assets/76909080/25d69f7a-7a21-4e6f-92d9-59c1cce5c526)
+![image](https://github.com/eSpark-Consultants/richardtilt-breakoutpcb/assets/76909080/dc5ce72d-2e36-4bdc-ac05-8020d4d6bc7a)
+
 
 Please note that left side contains actual module and pin info whereas right side is a legend!
  
