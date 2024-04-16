@@ -4,9 +4,9 @@ C:\Users\LiberDB\Documents\GitHub\richardtilt-breakoutpcb\Design Files\Breakout_
 ========================================================================================================================
 File Design Information:
 
-Date:       26/12/23
-Time:       22:24
-Revision:   67d1b34fdb09fafee7e3224b68279c9727d968d0
+Date:       16/04/24
+Time:       21:32
+Revision:   3157d82298b9107d803e1621faa311ff75c58574
 Variant:    No variations
 Units used: mm
 
@@ -19,5 +19,11 @@ J5         TopLayer 3,5348mm     89,1624mm    270      3,5348mm  89,1624mm  3,53
 J6         TopLayer 54,1430mm    79,0006mm    0        54,1430mm 79,0006mm  35,0930mm 79,0006mm  
 J7         TopLayer 48,4886mm    51,5112mm    0        48,4886mm 51,5112mm  42,1386mm 50,2412mm  
 J8         TopLayer 42,3164mm    73,5602mm    0        42,3164mm 73,5602mm  30,8864mm 73,5602mm  
+R1         TopLayer 26,0350mm    48,0060mm    90       26,0350mm 48,0060mm  26,0350mm 42,7559mm  
+R2         TopLayer 23,1140mm    48,0059mm    270      23,1140mm 48,0059mm  23,1140mm 53,2560mm  
 SW1        TopLayer 21,0639mm    114,4468mm   270      21,0639mm 114,4468mm 21,0639mm 116,9468mm 
 SW2        TopLayer 21,0639mm    89,2386mm    270      21,0639mm 89,2386mm  21,0639mm 91,7386mm  
+TP1        TopLayer 26,6700mm    73,5800mm    0        26,6700mm 73,5800mm  26,6700mm 73,5800mm  
+TP2        TopLayer 57,9530mm    73,5800mm    0        57,9530mm 73,5800mm  57,9530mm 73,5800mm  
+TP3        TopLayer 26,6700mm    68,5800mm    0        26,6700mm 68,5800mm  26,6700mm 68,5800mm  
+TP4        TopLayer 57,9530mm    68,5800mm    0        57,9530mm 68,5800mm  57,9530mm 68,5800mm  

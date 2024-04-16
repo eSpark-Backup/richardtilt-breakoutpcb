@@ -1,26 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Breakout_Board_Design-v1.0.PrjPcb]
-   Generated File[Breakout_PCB-v1.0.GTO]
-   Generated File[Breakout_PCB-v1.0.GTP]
-   Generated File[Breakout_PCB-v1.0.GTS]
-   Generated File[Breakout_PCB-v1.0.GTL]
-   Generated File[Breakout_PCB-v1.0.GBL]
-   Generated File[Breakout_PCB-v1.0.GBS]
-   Generated File[Breakout_PCB-v1.0.GBP]
-   Generated File[Breakout_PCB-v1.0.GBO]
-   Generated File[Breakout_PCB-v1.0.GM2]
-   Generated File[Breakout_PCB-v1.0.GKO]
-   Generated File[Breakout_PCB-v1.0.GPT]
-   Generated File[Breakout_PCB-v1.0.GPB]
-   Generated File[Breakout_PCB-v1.0.GD1]
-   Generated File[Breakout_PCB-v1.0.GG1]
-   Generated File[Breakout_PCB-v1.0.RUL]
-   Generated File[Breakout_PCB-v1.0.EXTREP]
-   Generated File[Breakout_PCB-v1.0.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Breakout_Board_Design-v1.0.PrjPcb]
+   Generated File[Breakout_PCB-v1.0.TXT]
+   Generated File[Breakout_PCB-v1.0.LDP]
+   Generated File[Breakout_PCB-v1.0.DRR]
 
 
-Files Generated   : 17
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 10:29:09 PM On 12/26/2023
+Finished Output Generation At 9:33:39 PM On 4/16/2024
